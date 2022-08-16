@@ -34,7 +34,7 @@ nota = 7
 
 if nota <= 41:
 
--------> print (Reprovado)
+-------> print ("Reprovado")
 
 elif nota > 4 and nota <=6:
 
